@@ -1,0 +1,14 @@
+History.txt
+Manifest.txt
+PostInstall.txt
+README.rdoc
+Rakefile
+lib/sugar_soap.rb
+lib/sugar_soap/attributes_to_name_value_list_mapper.rb
+lib/sugar_soap/client.rb
+lib/sugar_soap/stub_client.rb
+sugar_soap.gemspec
+test/sugar_crm.wsdl
+test/test_attributes_to_name_value_list_mapper.rb
+test/test_helper.rb
+test/test_sugar_soap_client.rb
