@@ -1,6 +1,6 @@
 = sugar_soap
 
-* FIX (url)
+* http://www.pkw.de
 
 == DESCRIPTION:
 
